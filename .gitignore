@@ -37,8 +37,13 @@ Debug/*.xml
 html/
 latex/
 
+# VectorCAST
+test/vectorcast/
+test/vectorcast/*/build/
+
 # Etc
 RemoteSystemsTempFiles/
 *.QIK
 *.bak
 *.tmp
+

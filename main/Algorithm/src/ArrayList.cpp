@@ -243,6 +243,7 @@ void ArrayList_test(void){
 
 	ArrayList<int> data1;
 
+	data1.add(10);
 	data1.add(11);
 	data1.add(11);
 	data1.add(33);
